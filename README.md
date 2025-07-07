@@ -83,7 +83,7 @@ CREATE TABLE `users` (
 
 ## 📸 Project Preview
 
-![Preview](Project Preview.jpg)
+![Preview](Project-Preview.jpg)
 
 ---
 
