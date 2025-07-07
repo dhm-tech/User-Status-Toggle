@@ -63,7 +63,8 @@ CREATE TABLE `users` (
   `Age` int,
   `Status` tinyint DEFAULT 0,
   PRIMARY KEY (`ID`)
-); ```
+);
+```
 
 ---
 
