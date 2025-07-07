@@ -68,18 +68,13 @@ CREATE TABLE `users` (
 
 ---
 
-🚀 How to Run the Project Locally
-Install XAMPP
+## 🚀 How to Run the Project Locally
 
-Start Apache and MySQL
-
-Open phpMyAdmin and:
-
-Create a database called users_db
-
-Import users_db.sql
-
-Place the project folder in C:\xampp\htdocs\users_project
-
-Open your browser and go to:
-http://localhost/users_project/index.php
+1. Install XAMPP
+2. Start Apache and MySQL
+3. Open phpMyAdmin and:
+   Create a database called users_db
+   Import users_db.sql
+4. Place the project folder in C:\xampp\htdocs\users_project
+5. Open your browser and go to:
+   http://localhost/users_project/index.php
