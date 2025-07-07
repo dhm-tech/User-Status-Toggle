@@ -78,3 +78,13 @@ CREATE TABLE `users` (
 6. Place the project folder in C:\xampp\htdocs\users
 7. Open your browser and go to:
    http://localhost/users/index.php
+
+---
+
+## 📸 Project Preview
+
+---
+
+👤 Author
+Designed by: [Abdulrahman Qutah]
+Date: [7 July 2025]
