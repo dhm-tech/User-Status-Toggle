@@ -75,6 +75,6 @@ CREATE TABLE `users` (
 3. Open phpMyAdmin and:
 4. Create a database called users_db
 5. Import users_db.sql
-6. Place the project folder in C:\xampp\htdocs\users_project
+6. Place the project folder in C:\xampp\htdocs\users
 7. Open your browser and go to:
-   http://localhost/users_project/index.php
+   http://localhost/users/index.php
