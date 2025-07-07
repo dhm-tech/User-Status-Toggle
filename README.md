@@ -73,9 +73,9 @@ CREATE TABLE `users` (
 1. Install XAMPP
 2. Start Apache and MySQL
 3. Open phpMyAdmin and:
-4. Create a database called users_db
-5. Import users_db.sql
-6. Place the project folder in C:\xampp\htdocs\users
+4. Create a database called > users_db
+5. Import > users_db.sql
+6. Place the project folder in > C:\xampp\htdocs\users
 7. Open your browser and go to:
    http://localhost/users/index.php
 
