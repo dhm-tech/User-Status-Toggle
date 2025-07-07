@@ -88,6 +88,5 @@ CREATE TABLE `users` (
 ---
 
 ## 👤 Author
-> Designed by: [Abdulrahman Qutah]
-
-> > Date: [7 July 2025]
+> Designed by: [Abdulrahman Qutah]  
+> Date: [7 Jul 2025]
