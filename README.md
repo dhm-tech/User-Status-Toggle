@@ -85,6 +85,6 @@ CREATE TABLE `users` (
 
 ---
 
-👤 Author
+## 👤 Author
 Designed by: [Abdulrahman Qutah]
 Date: [7 July 2025]
